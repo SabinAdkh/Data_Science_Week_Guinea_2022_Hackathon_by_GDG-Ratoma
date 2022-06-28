@@ -1,0 +1,17 @@
+ID : Unique ID
+CountryCode : Country Code
+region_code :  Region Code
+year : Year
+sex : Sex
+agefrom : Starting Age
+ageto : Finishing Age
+percentage_no_schooling : Percentage of No Schooling Attained in Pop.
+percentage_primary_schooling : Percentage of Primary Schooling Attained in Pop.
+percentage_primary_schooling_completed : Percentage of Complete Primary Schooling Attained in Pop.
+percentage_secondary_schooling : Percentage of Secondary Schooling Attained in Pop.
+percentage_secondary_schooling_completed : Percentage of Complete Secondary Schooling Attained in Pop.
+percentage_tertiary_schooling : Percentage of Tertiary Schooling Attained in Pop.
+percentage_tertiary_schooling_completed : Percentage of Complete Tertiary Schooling Attained in Pop.
+yr_sch : Average Years of Schooling Attained
+literate_pop : Literate population
+target = LR : Literacy rate (in percentage)
